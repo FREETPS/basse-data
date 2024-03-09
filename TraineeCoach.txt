@@ -5,3 +5,13 @@
 ('Y1234987', 'Ouled thami', 'Ali', '04/12/1979', 'Tanger', 'Bachelor', 'chouhada n 6', 'Villa Amina'),
 ('J3578902', 'Ben Omar', 'Abd Allah', '25/06/1990', 'Kenitra', 'Phd', 'n12 bir rami', 'Immeuble iftikhar'),
 ('F9827363', 'Boudiaf', 'Fatima Zohra', '10/01/1997', 'Rabat', 'Bac + 2', 'n 13 ettakaddoum')
+
+**********************************************************
+
+('11', 'Programming Java', '12', '3600'),
+('12', 'Web Development', '14', '4200'),
+('13', 'Anglais technique', '15', '3750'),
+('14', 'Communication', '10', '10', '2500'),
+('15', 'Base de données Oracle', '20', '6000'),
+('16', 'Soft Skills', '12', '3000')
+
